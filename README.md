@@ -1,5 +1,7 @@
 # style_2
 
+<img width="220" alt="style" src="https://user-images.githubusercontent.com/40392114/67608929-a2433c00-f7b4-11e9-8347-407bb1dc03fb.png">
+
 A new Flutter project.
 
 ## Getting Started
